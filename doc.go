@@ -40,7 +40,9 @@
 //
 // # Run multichecker
 //
-// Download the analyzer binary file here.....
+// Download the analyzer binary file:
+//
+// https://github.com/Julia-ivv/multichecker/releases/tag/v0.1.0
 //
 // Run for checking by all analyzers:
 //
